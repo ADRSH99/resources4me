@@ -50,11 +50,11 @@ Andrew NG Standford Lectures
 WEBDEV STACK TO LEARN:
 html css js: async,await,fetch api
 flask
-react : full
-
-node.js, express.js
+ frontend -react : full + typescript
+backend - node.js, express.js
 database : mongodb firebase and sql and how to connect
 
+Dave Grey Youtube Playlist, FreeCOdeCamp, DOcs, MDN Docs
 jwt auth, middleware, oauth, rbst 
 
 if next.js fro full stack (based on react.js native)
@@ -65,6 +65,9 @@ piyush garg node
 official documentation
 100xdevs notes gmail
 
+DEVOPS: acm REsources file
 
-
+DSA,CP:
+strivers, lc, cf
+usaco, cfef handbook+ problemset
 
